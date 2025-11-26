@@ -1,0 +1,11 @@
+#root {
+  min-height: 100vh;
+}
+
+code {
+  background-color: #f3f4f6;
+  padding: 0.08rem 0.3rem;
+  border-radius: 6px;
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco,
+    Consolas, "Liberation Mono", "Courier New", monospace;
+}
